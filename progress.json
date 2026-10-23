@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:35:23.176Z",
+  "generated_at": "2026-10-23T16:35:25.745Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -62,7 +62,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-19T07:15:52.207Z",
-      "last_pushed_at": "2026-10-19T07:15:52.207Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "math:9": {
       "kind": "math",
@@ -73,7 +73,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-19T07:27:03.511Z",
-      "last_pushed_at": "2026-10-19T07:27:03.511Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "math:10": {
       "kind": "math",
@@ -84,7 +84,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-19T07:41:52.048Z",
-      "last_pushed_at": "2026-10-19T07:41:52.048Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "math:12": {
       "kind": "math",
@@ -95,7 +95,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-19T10:57:35.804Z",
-      "last_pushed_at": "2026-10-19T10:57:35.804Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "problem:8": {
       "kind": "problem",
@@ -119,7 +119,7 @@
       "url": "https://www.deep-ml.com/math-problems/14",
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-19T14:15:57.137Z",
-      "last_pushed_at": "2026-10-19T14:15:57.137Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "problem:14": {
       "kind": "problem",
@@ -169,7 +169,7 @@
       "url": "https://www.deep-ml.com/math-problems/13",
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-10-23T14:31:06.467Z",
-      "last_pushed_at": "2026-10-23T14:31:06.467Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "math:15": {
       "kind": "math",
@@ -180,7 +180,7 @@
       "url": "https://www.deep-ml.com/math-problems/15",
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-23T14:33:03.765Z",
-      "last_pushed_at": "2026-10-23T14:33:03.765Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "problem:58": {
       "kind": "problem",
@@ -269,7 +269,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-23T14:57:58.704Z",
-      "last_pushed_at": "2026-10-23T14:57:58.704Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "math:5": {
       "kind": "math",
@@ -280,7 +280,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-23T15:01:44.977Z",
-      "last_pushed_at": "2026-10-23T15:01:44.977Z"
+      "last_pushed_at": "2026-10-23T16:35:25.743Z"
     },
     "problem:15": {
       "kind": "problem",
