@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:35:21.007Z",
+  "generated_at": "2026-10-23T16:35:23.176Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -146,6 +146,180 @@
       "last_pushed_at": "2026-10-19T21:07:00.577Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-23T14:08:42.271Z",
+      "last_pushed_at": "2026-10-23T14:08:42.271Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-10-23T14:31:06.467Z",
+      "last_pushed_at": "2026-10-23T14:31:06.467Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-23T14:33:03.765Z",
+      "last_pushed_at": "2026-10-23T14:33:03.765Z"
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-10-23T14:35:43.073Z",
+      "last_pushed_at": "2026-10-23T14:35:43.073Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-10-23T14:39:54.809Z",
+      "last_pushed_at": "2026-10-23T14:39:54.809Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-10-23T14:43:44.859Z",
+      "last_pushed_at": "2026-10-23T14:43:44.859Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-10-23T14:45:03.823Z",
+      "last_pushed_at": "2026-10-23T14:45:03.823Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:63": {
+      "kind": "problem",
+      "id": "63",
+      "title": "Implement the Conjugate Gradient Method for Solving Linear Systems",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/63",
+      "path": "problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems",
+      "first_solved_at": "2026-10-23T14:46:31.996Z",
+      "last_pushed_at": "2026-10-23T14:46:31.996Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-10-23T14:54:21.629Z",
+      "last_pushed_at": "2026-10-23T14:54:21.629Z",
+      "language": "python",
+      "lines": 15
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-23T14:57:58.704Z",
+      "last_pushed_at": "2026-10-23T14:57:58.704Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-23T15:01:44.977Z",
+      "last_pushed_at": "2026-10-23T15:01:44.977Z"
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-23T15:24:59.629Z",
+      "last_pushed_at": "2026-10-23T15:24:59.629Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-10-23T15:41:01.037Z",
+      "last_pushed_at": "2026-10-23T15:41:01.037Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-10-23T16:26:39.835Z",
+      "last_pushed_at": "2026-10-23T16:26:39.835Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
